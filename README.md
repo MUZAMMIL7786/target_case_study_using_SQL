@@ -12,7 +12,6 @@ Target is a large retailer in the United States. It is facing some challenges, i
 - Univariate and Bivariate analysis on each feature
 - Outliers detection
 - Distribution of variables and relationship between them
-- Feature engineering
 - Missing values and Outliers treatment
 - Insights and Recommendations
 
@@ -34,15 +33,12 @@ Target is a large retailer in the United States. It is facing some challenges, i
 - In the high growing months try to keep the stocks full for the products that are sold at high pace and try to showcase products that are less sold because the probability of selling the items in these months increases
 - In the low selling months try to maintain only those stocks which has a high demand
 - Try to maintain servers and take care of traffic, as traffic increases the database efficiency decreases that could create a loss of customers
+- Take care of the servers in high potential states
+- Increase the marketing cost in the low performing state to spread awareness, try to give vouchers, gift carts, discounts that attracts the customers.
 
 ## Installations
 ### Requirements
-- Python 3.9
-- Pandas
-- Numpy
-- Scikit-Learn
-- Seaborn
-- Matplotlib
+- SQL
 
 ## Contributors
 - Peshimaam Mohammed Muzammil
